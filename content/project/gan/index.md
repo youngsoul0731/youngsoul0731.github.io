@@ -2,7 +2,7 @@
 title: Comic Image Generation
 summary: An image generation project based on Generartive Adversarial Networks.
 tags:
-  - Demo
+  - Deep Learning
 date: "2022-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
