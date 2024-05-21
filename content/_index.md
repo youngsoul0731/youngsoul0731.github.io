@@ -108,6 +108,9 @@ sections:
     design:
       columns: '2'
       view: citation
+
+
+  
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
@@ -228,6 +231,23 @@ sections:
   #     title: Popular Topics
   #   design:
   #     columns: '2'
+ 
+  - block: markdown
+    id: friends
+    content:
+      title: Friends
+      subtitle: The people who work closely with me
+      text: |-
+        <div style="display: flex; justify-content: space-evenly;">
+          <a href="https://lhchen.top/">Ling-Hao Chen</a>
+          <a href="https://zhiyangliang.github.io/">Zhiyang Liang</a>
+          <a href="https://zhouyk.github.io/">Yukun Zhou</a>
+          <a href="https://kopper-xdu.github.io/">Xijun Wang</a>
+          <a href="https://crosser-xdu.github.io/">Qiyu Wu</a>
+          <a href="https://comeintocalm.cn/">Juncheng Chen</a>
+        </div>
+
+
   - block: contact
     id: contact
     content:
