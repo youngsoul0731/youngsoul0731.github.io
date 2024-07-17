@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  mode: dark
+  mode: light
   font: classic
-  font_size: M
+  font_size: S
 
 # SEO
 

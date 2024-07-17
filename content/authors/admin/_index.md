@@ -30,9 +30,8 @@ bio: My research interests include Large Langudage Models for agents and Trustwo
 
 # Interests to show in About widget
 interests:
-  - LLM agents
-  - Graph Representation Learning
-  - Graph Signal processing
+  - Multi Agent Systems
+  - General Graph Models
 
 # Education to show in About widget
 education:
@@ -114,5 +113,5 @@ social:
 highlight_name: true
 ---
 
-Hello! My name is Yuanshuo Zhang (章远硕 in Chinese and Jarvis in English), an undergraduate student at [Xidian University](https://www.xidian.edu.cn/). I accomplished my first research project about trustworthy machine learning on graphs. Now, I am foucsing on Large Language Model (LLM) agents as a research intern at [Cooperative Medianet Innovation Center (CMIC)](https://cmic.sjtu.edu.cn/EN/Default.aspx) supervised by [Siheng Chen](https://siheng-chen.github.io/). If you are interested in me and seek for cooperation, feel free to contact me by <a href="mailto:youngsoul&#64;gmail.com">Email</a>.
+Hello! My name is Yuanshuo Zhang (章远硕 in Chinese and Jarvis in English), an undergraduate student at [Xidian University](https://www.xidian.edu.cn/). I accomplished my first research project about trustworthy machine learning on graphs. Now, I am foucsing on Large Language Model (LLM) Agents as a research intern at [Cooperative Medianet Innovation Center (CMIC)](https://cmic.sjtu.edu.cn/EN/Default.aspx) supervised by [Siheng Chen](https://siheng-chen.github.io/). If you are interested in me and seek for cooperation, feel free to contact me by <a href="mailto:youngsoul&#64;gmail.com">Email</a>.
 {style="text-align: justify;"}

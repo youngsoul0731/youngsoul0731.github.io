@@ -83,17 +83,13 @@ sections:
             #   - Main researcher 
     design:
       columns: '2'
-  - block: collection
-    id: featured
+ 
+  - block: markdown
+    id: events
     content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
+      title: Events
+      text: ERASE is accepted by CIKM-2024! (July 17th)
+
   - block: collection
     content:
       title: Recent Publications
