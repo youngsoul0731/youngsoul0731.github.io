@@ -95,6 +95,7 @@ sections:
             </ul>
 
   - block: collection
+    id: publications
     content:
       title: Recent Publications
       text: |-

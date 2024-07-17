@@ -10,12 +10,13 @@ main:
   # - name: Experience
   #   url: '#experience'
   #   weight: 20
-  - name: Publications
-    url: '#featured'
+  - name: Events
+    url: '#events'
     weight: 20
-  - name: Projects
-    url: '#projects'
+  - name: Publications
+    url: '#publications'
     weight: 30
+
   # - name: Publications
   #   url: '#featured'
   #   weight: 50
