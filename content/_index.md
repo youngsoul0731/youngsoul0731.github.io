@@ -88,7 +88,9 @@ sections:
     id: events
     content:
       title: Events
-      text: ERASE is accepted by CIKM-2024! (July 17th)
+      text: <ul>
+              <li> ERASE is accepted by CIKM-2024! (July 17th, 2024)</li>
+            </ul>
 
   - block: collection
     content:
