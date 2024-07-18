@@ -44,44 +44,44 @@ education:
       year: 2024 - Present
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: Python
-        description: 'The main framework used in my research is pytorch.'
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Latex/Overleaf
-        description: 'I am proficient in writing on overleaf.'
-        percent: 70
-        icon: overleaf
-        icon_pack: ai
-      - name: Making demos
-        description: 'I love making gif/video demos to present our work.'
-        percent: 50
-        icon: video
-        icon_pack: fas
+# skills:
+#   - name: Technical
+#     items:
+#       - name: Python
+#         description: 'The main framework used in my research is pytorch.'
+#         percent: 80
+#         icon: python
+#         icon_pack: fab
+#       - name: Latex/Overleaf
+#         description: 'I am proficient in writing on overleaf.'
+#         percent: 70
+#         icon: overleaf
+#         icon_pack: ai
+#       - name: Making demos
+#         description: 'I love making gif/video demos to present our work.'
+#         percent: 50
+#         icon: video
+#         icon_pack: fas
 
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Runing
-        description: 'Running has shaped me to be physically and mentally strong!'
-        percent: 80
-        icon: person-running
-        icon_pack: fas
-      - name: Music
-        description: 'I enjoy listening music espeacially hip-hop.'
-        percent: 100
-        icon: music
-        icon_pack: fas
-      - name: Films
-        description: 'Marvel is my favorite!'
-        percent: 80
-        icon: film
-        icon_pack: fas
+#   - name: Hobbies
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#       - name: Runing
+#         description: 'Running has shaped me to be physically and mentally strong!'
+#         percent: 80
+#         icon: person-running
+#         icon_pack: fas
+#       - name: Music
+#         description: 'I enjoy listening music espeacially hip-hop.'
+#         percent: 100
+#         icon: music
+#         icon_pack: fas
+#       - name: Films
+#         description: 'Marvel is my favorite!'
+#         percent: 80
+#         icon: film
+#         icon_pack: fas
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
