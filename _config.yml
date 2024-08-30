@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : ”youngsoul0731“ # e.g., "github username"
+  github           : youngsoul0731 # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : “https://orcid.org/0009-0001-5161-135X”     # e.g., "https://orcid.org/xxxx"
+  orcid            : https://orcid.org/0009-0001-5161-135X     # e.g., "https://orcid.org/xxxx"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
