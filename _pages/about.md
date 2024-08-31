@@ -54,7 +54,7 @@ I am an undergraduate student at [Xidian University](https://www.xidian.edu.cn/)
 - *2024.08 - present*, [BIGAI](https://www.bigai.ai/), Beijing, China.
 
 # 👍 Friends
-- [Ling-Hao Chen](https://lhchen.top/), Ph.D. student at [Tsinghua University](https://www.tsinghua.edu.cn/), focussing on Character Animation, Digital Generation, Embodied Intelligence, and Machine Learnin. 
+- [Ling-Hao Chen](https://lhchen.top/), Ph.D. student at [Tsinghua University](https://www.tsinghua.edu.cn/), focussing on Character Animation, Digital Generation, Embodied Intelligence, and Machine Learning (**mentored me in graph representation learning**). 
 - [Xijun Wang](https://kopper-xdu.github.io/), undergraduate student at [Xidian University](https://www.xidian.edu.cn/), focussing on Computer Vison and Generative Models.
 
 
