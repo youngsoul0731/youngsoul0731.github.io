@@ -32,7 +32,7 @@ I am an undergraduate student at [Xidian University](https://www.xidian.edu.cn/)
 
 [Ling-Hao Chen](https://lhchen.top/), **Yuanshuo Zhang**, et al.
 
-[**Project**](hhttps://eraseai.github.io/ERASE-page/) &nbsp; [**Code**](https://github.com/eraseai/erase) &nbsp; [**Video**](https://www.youtube.com/watch?v=w5HwGb8bElA)
+[<i class="fa fa-solid fa-cube" aria-hidden="true"></i> **Project**](hhttps://eraseai.github.io/ERASE-page/) &nbsp; [<i class="fab fa-fw fa-github" aria-hidden="true"></i> **Code**](https://github.com/eraseai/erase) &nbsp; [<i class="fa fa-solid fa-video" aria-hidden="true"></i> **Video**](https://www.youtube.com/watch?v=w5HwGb8bElA)
 - We fist introduce error-resilient mechanism to graph representation learning.
 </div>
 </div>
@@ -56,3 +56,13 @@ I am an undergraduate student at [Xidian University](https://www.xidian.edu.cn/)
 # 👍 Friends
 - [Ling-Hao Chen](https://lhchen.top/), Ph.D. student at [Tsinghua University](https://www.tsinghua.edu.cn/), focussing on Character Animation, Digital Generation, Embodied Intelligence, and Machine Learnin. 
 - [Xijun Wang](https://kopper-xdu.github.io/), undergraduate student at [Xidian University](https://www.xidian.edu.cn/), focussing on Computer Vison and Generative Models.
+
+
+
+
+<!-- 
+<head> 
+    <script defer src="https://use.fontawesome.com/releases/v6.0.13/js/all.js"></script> 
+    <script defer src="https://use.fontawesome.com/releases/v6.0.13/js/v4-shims.js"></script> 
+</head> 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.0.13/css/all.css"> -->
