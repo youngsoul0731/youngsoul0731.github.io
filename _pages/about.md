@@ -17,7 +17,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am an undergraduate student at [Xidian University](https://www.xidian.edu.cn/), also work as research intern at [Beijing Institute for General Artificial Intelligence (BIGAI)](https://www.bigai.ai/). Currently, I foucs on LLM-Empowered Agents for Society and Multi-Agent Systems. If you are interested in me and seek for cooperation, feel free email me at [youngsoul0731@gmail.com](mailto:youngsoul0731@gmail.com/).
+I am an undergraduate student at [Xidian University](https://www.xidian.edu.cn/), also work as research intern at [Beijing Institute for General Artificial Intelligence (BIGAI)](https://www.bigai.ai/). Currently, I foucs on LLM-Empowered Agents for Society and Multi-Agent Systems. If you are interested in me and seek for cooperation, feel free to email me at [youngsoul0731@gmail.com](mailto:youngsoul0731@gmail.com/).
 
 
 # 🔥 News
