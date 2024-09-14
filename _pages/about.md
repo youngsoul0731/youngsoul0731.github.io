@@ -17,7 +17,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am an undergraduate student at [Xidian University](https://www.xidian.edu.cn/), also work as a research intern at [Beijing Institute for General Artificial Intelligence (BIGAI)](https://www.bigai.ai/). Currently, I foucs on Multimodal Agents for Society and Multi-Agent Systems. If you are interested in me and seek for cooperation, feel free to email me at [youngsoul0731@gmail.com](mailto:youngsoul0731@gmail.com/). I will continue to pursue a PhD degree at [Media Brain](https://mediabrain-sjtu.github.io/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by [Siheng Chen](https://mediabrain-sjtu.github.io/).
+I am an undergraduate student at [Xidian University](https://www.xidian.edu.cn/), also work as a research intern at [Beijing Institute for General Artificial Intelligence (BIGAI)](https://www.bigai.ai/). Currently, I foucs on Multimodal Agents for Society and Multi-Agent Systems. If you are interested in me and seek for cooperation, feel free to email me at [youngsoul0731@gmail.com](mailto:youngsoul0731@gmail.com/). I will continue to pursue a PhD degree at [Media Brain](https://mediabrain-sjtu.github.io/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by [Siheng Chen](https://siheng-chen.github.io/).
 
 
 # 🔥 News
@@ -64,12 +64,12 @@ I am an undergraduate student at [Xidian University](https://www.xidian.edu.cn/)
 <!-- <div id="clustrmaps-widget-container" style="width: 40%; margin: 0 auto;">
     <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=Dv2XJvfFsJgeunE6i3OYfBPY7jcGv2zSILN4rwgNYH8&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
 </div> -->
-<body>
-<div id="clustrmaps-widget-container" style="width: 30%; margin: 0 auto;">
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=Dv2XJvfFsJgeunE6i3OYfBPY7jcGv2zSILN4rwgNYH8"></script>
+<!-- <body> -->
+<!-- <div id="clustrmaps-widget-container" style="width: 40%"> -->
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=tt&d=Dv2XJvfFsJgeunE6i3OYfBPY7jcGv2zSILN4rwgNYH8&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
 
-</div>
-</body>
+<!-- </div> -->
+<!-- </body> -->
 <!-- 
 <head> 
     <script defer src="https://use.fontawesome.com/releases/v6.0.13/js/all.js"></script> 
