@@ -1,7 +1,6 @@
 {% if page.author and site.data.authors[page.author] %}
   {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.author %}
 {% endif %}
-
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
   <div class="author__avatar">
@@ -10,7 +9,7 @@
 
   <div class="author__content">
     <h3 class="author__name">{{ author.name }}</h3>
-    {% if author.cn_name %}<p class="author__name" style="font-family: 'KaiTi', '楷体', 'Kaiti SC'; letter-spacing: 4px;font-size: 24px;">{{ author.cn_name }}</p>{% endif %}
+    {% if author.cn_name %}<p class="author__name" style=" font-family: 'honglei','KaiTi','serif'; letter-spacing: 10px;font-size: 32px;margin-top: 0px;margin-bottom: 0px;">{{ author.cn_name }}</p>{% endif %}
     {% if author.bio %}<p class="author__bio">{{ author.bio }}</p>{% endif %}
   </div>
 

@@ -5,7 +5,12 @@
 /*
    Default
    ========================================================================== */
-
+@font-face {
+    font-family: 'honglei';
+    src: url('assets/fonts/honglei.ttf') format('truetype'); 
+    font-weight: normal;
+    font-style: normal;
+}
 .sidebar {
   -webkit-transform: translate3d(0, 0 , 0);
           transform: translate3d(0, 0 , 0);
@@ -140,8 +145,8 @@
   margin: 0;
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin-top: 5px;
+    margin-bottom: 10px;
   }
 }
 
