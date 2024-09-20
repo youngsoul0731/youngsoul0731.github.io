@@ -17,7 +17,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am an undergraduate student at [Xidian University](https://www.xidian.edu.cn/), also work as a research intern at [Beijing Institute for General Artificial Intelligence (BIGAI)](https://www.bigai.ai/). Currently, I foucs on Multimodal Agents for Society and Multi-Agent Systems. If you are interested in me and seek for cooperation, feel free to email me at [youngsoul0731@gmail.com](mailto:youngsoul0731@gmail.com/). I will continue to pursue a PhD degree at [MediaBrain Lab](https://mediabrain-sjtu.github.io/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by [Siheng Chen](https://siheng-chen.github.io/).
+I am an undergraduate student at [Xidian University](https://www.xidian.edu.cn/), also work as a research intern at [Beijing Institute for General Artificial Intelligence (BIGAI)](https://www.bigai.ai/). Currently, I foucs on Multimodal Agents for Society and Multi-Agent Systems. I will continue to pursue a PhD degree at [MediaBrain Lab](https://mediabrain-sjtu.github.io/), [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), supervised by [Siheng Chen](https://siheng-chen.github.io/). If you are interested in me and seek for cooperation, feel free to email me at [youngsoul0731@gmail.com](mailto:youngsoul0731@gmail.com/). 
 
 
 # 🔥 News
