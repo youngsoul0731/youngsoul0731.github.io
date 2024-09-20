@@ -23,6 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuanshuo Zhang"
   avatar           : "images/avatar.jpeg"
+  cn_name          : "章远硕"
   bio              : "Xidian University"
   location         : "Beijing, China"
   employer         : 
