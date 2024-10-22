@@ -28,7 +28,7 @@ I am an undergraduate student at [Xidian University](https://www.xidian.edu.cn/)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2024</div><img src='images/erase.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ERASE: Error-Resilient Representation Learning on Graphs for Label Noise Tolerance](https://arxiv.org/abs/2312.08852)
+[ERASE: Error-Resilient Representation Learning on Graphs for Label Noise Tolerance](https://dl.acm.org/doi/10.1145/3627673.3679552)
 
 [Ling-Hao Chen](https://lhchen.top/), **Yuanshuo Zhang**, et al.
 
