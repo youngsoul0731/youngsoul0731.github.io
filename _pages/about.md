@@ -37,6 +37,21 @@ I am an incoming PhD student @ [SJTU](https://en.sjtu.edu.cn/) and an intern at 
 </div>
 </div>
 
+# 📝 Preprints
+<span class='anchor' id='-preprints'></span>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/flora.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GNNs as Predictors of Agentic Workflow Performances](https://arxiv.org/abs/2503.11301)
+
+Yuanshuo Zhang, Yuchen Hou, Bohan Tang, Shuo Chen, Muhan Zhang, Xiaowen Dong, Siheng Chen
+
+[<i class="fab fa-fw fa-github" aria-hidden="true"></i> **Code**](https://github.com/youngsoul0731/FLORA-Bench) &nbsp; [<i class="fa fa-solid fa-file-pdf" aria-hidden="true"></i> **PDF**](https://arxiv.org/pdf/2503.11301)
+- We propose FLORA to use GNNs as predictors of agentic workflow performance thus avoiding repeated LLM invocations for evaluation. 
+</div>
+</div>
+
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -45,13 +60,12 @@ I am an incoming PhD student @ [SJTU](https://en.sjtu.edu.cn/) and an intern at 
 # 📖 Educations
 - *2021.09 - 2025.06*, School of Electronic Engineering, Xidian University. 
 
-
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.08 - present*, [BIGAI](https://www.bigai.ai/), Beijing, China.
+- *2024.08 - 2025.07*, [BIGAI](https://www.bigai.ai/), Beijing, China.
 
 # 👍 Friends
 - [Ling-Hao Chen](https://lhchen.top/), Ph.D. student at [Tsinghua University](https://www.tsinghua.edu.cn/), focussing on Character Animation, Digital Generation, Embodied Intelligence, and Machine Learning (**mentored me in graph representation learning**). 
