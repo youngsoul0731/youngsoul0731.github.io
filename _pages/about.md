@@ -52,7 +52,7 @@ Yuanshuo Zhang, Yuchen Hou, Bohan Tang, Shuo Chen, Muhan Zhang, Xiaowen Dong, Si
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/flora.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/flora.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GNNs as Predictors of Agentic Workflow Performances](https://arxiv.org/abs/2503.11301)
@@ -62,7 +62,7 @@ Yuanshuo Zhang, Yuchen Hou, Bohan Tang, Shuo Chen, Muhan Zhang, Xiaowen Dong, Si
 [<i class="fab fa-fw fa-github" aria-hidden="true"></i> **Code**](https://github.com/youngsoul0731/FLORA-Bench) &nbsp; [<i class="fa fa-solid fa-file-pdf" aria-hidden="true"></i> **PDF**](https://arxiv.org/pdf/2503.11301)
 - We propose FLORA to use GNNs as predictors of agentic workflow performance thus avoiding repeated LLM invocations for evaluation. 
 </div>
-</div>
+</div> -->
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
