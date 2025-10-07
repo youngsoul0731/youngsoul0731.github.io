@@ -17,7 +17,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am an incoming PhD student @ [SJTU](https://en.sjtu.edu.cn/) and an intern at [BIGAI](https://www.bigai.ai/), supervised by [Siheng Chen](https://siheng-chen.github.io/).  My general research interest lies in collective intelligence. Currently, I focus on agentic workflow optimization. If you are interested in me and seek for cooperation, feel free to email me at [youngsoul0731@gmail.com](mailto:youngsoul0731@gmail.com/). 
+I am first-year PhD student @ [SJTU](https://en.sjtu.edu.cn/), supervised by [Siheng Chen](https://siheng-chen.github.io/).  My general research interest lies in LLM Agents and Embodied Agents. Currently, I focus on Tool-Augmented LLM Agents and Humanoid Robot Control. If you are interested in me and seek for cooperation, feel free to email me at [youngsoul0731@gmail.com](mailto:youngsoul0731@gmail.com/). 
 
 
 # 🔥 News
@@ -52,7 +52,17 @@ Yuanshuo Zhang, Yuchen Hou, Bohan Tang, Shuo Chen, Muhan Zhang, Xiaowen Dong, Si
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/flora.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+[GNNs as Predictors of Agentic Workflow Performances](https://arxiv.org/abs/2503.11301)
+
+Yuanshuo Zhang, Yuchen Hou, Bohan Tang, Shuo Chen, Muhan Zhang, Xiaowen Dong, Siheng Chen
+
+[<i class="fab fa-fw fa-github" aria-hidden="true"></i> **Code**](https://github.com/youngsoul0731/FLORA-Bench) &nbsp; [<i class="fa fa-solid fa-file-pdf" aria-hidden="true"></i> **PDF**](https://arxiv.org/pdf/2503.11301)
+- We propose FLORA to use GNNs as predictors of agentic workflow performance thus avoiding repeated LLM invocations for evaluation. 
+</div>
+</div>
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -67,10 +77,10 @@ Yuanshuo Zhang, Yuchen Hou, Bohan Tang, Shuo Chen, Muhan Zhang, Xiaowen Dong, Si
 # 💻 Internships
 - *2024.08 - 2025.07*, [BIGAI](https://www.bigai.ai/), Beijing, China.
 
-# 👍 Friends
+<!-- # 👍 Friends
 - [Ling-Hao Chen](https://lhchen.top/), Ph.D. student at [Tsinghua University](https://www.tsinghua.edu.cn/), focussing on Character Animation, Digital Generation, Embodied Intelligence, and Machine Learning (**mentored me in graph representation learning**). 
 - [Xijun Wang](https://kopper-xdu.github.io/), undergraduate student at [Xidian University](https://www.xidian.edu.cn/), focussing on Computer Vison and Generative Models.
-- [Zhiyang Liang](https://zhiyangliang.github.io/), undergraduate student at [Xidian University](https://www.xidian.edu.cn/), focussing on 3D Vision.
+- [Zhiyang Liang](https://zhiyangliang.github.io/), undergraduate student at [Xidian University](https://www.xidian.edu.cn/), focussing on 3D Vision. -->
 <!-- <br><br><br><br><br><br><br><br> -->
 &nbsp;
 
