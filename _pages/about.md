@@ -24,7 +24,7 @@ I am first-year PhD student @ [SJTU](https://en.sjtu.edu.cn/), supervised by [Si
 
 - *2026.01*: &nbsp;🎉🎉 The paper entitled "InfoMosaic-Bench: Evaluating Multi-Source Information Seeking in Tool-Augmented Agents" has been accepted by ICLR 2026.
 
-- *2025.10*: &nbsp;🎉🎉 The paper entitled "GNNs as Predictors of Agentic Workflow Performances" has been accepted by LoG 2025: The Fourth Learning on Graphs Conference.
+- *2025.10*: &nbsp;🎉🎉 The paper entitled "FLORA: GNNs as Predictors of Agentic Workflow Performances" has been accepted by LoG 2025: The Fourth Learning on Graphs Conference.
 
 - *2024.07*: &nbsp;🎉🎉 The paper entitled "ERASE: Error-Resilient Representation Learning on Graphs for Label Noise Tolerance" has been accepted by CIKM '24: 33rd International Conference on Information and Knowledge Management. I serve as a **co-first author**.
 
@@ -47,7 +47,7 @@ Yaxin Du, **Yuanshuo Zhang**, Xiyuan Yang, Yifan Zhou, Cheng Wang, Gongyi Zou, X
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">LoG 2025</div><img src='images/flora.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GNNs as Predictors of Agentic Workflow Performances](https://arxiv.org/abs/2503.11301)
+[FLORA: GNNs as Predictors of Agentic Workflow Performances](https://arxiv.org/abs/2503.11301)
 
 Yuanshuo Zhang, Yuchen Hou, Bohan Tang, Shuo Chen, Muhan Zhang, Xiaowen Dong, Siheng Chen
 
