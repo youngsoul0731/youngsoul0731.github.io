@@ -47,7 +47,7 @@
     flex-direction: row;
     flex-wrap: wrap;
     border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+    padding: 1.2em 0 1.2em 0;
     
 
     .paper-box-image{
@@ -66,6 +66,14 @@
     .paper-box-text{
         max-width: 100%;
         order: 1;
+        ul {
+            margin-top: 0.4em;
+            margin-bottom: 0;
+        }
+        li {
+            line-height: 1.25;
+            margin: 0.2em 0;
+        }
     }
     
     @include breakpoint($medium) {
@@ -86,6 +94,14 @@
             padding-left: 2em;
             max-width: 60%;
             order: 2;
+            ul {
+                margin-top: 0.4em;
+                margin-bottom: 0;
+            }
+            li {
+                line-height: 1.25;
+                margin: 0.2em 0;
+            }
         }
 
     }

@@ -16,31 +16,35 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <span class='anchor' id='about-me'></span>
 
-
-I am first-year PhD student @ [SJTU](https://en.sjtu.edu.cn/), supervised by [Siheng Chen](https://siheng-chen.github.io/).  My general research interest lies in LLM Agents and Embodied Agents. Currently, I focus on Tool-Augmented LLM Agents and Humanoid Robot Control. If you are interested in me and seek for cooperation, feel free to email me at [youngsoul0731@gmail.com](mailto:youngsoul0731@gmail.com/). 
+# 🚀 About Me 
+I am first-year PhD student @ [SJTU](https://en.sjtu.edu.cn/), supervised by [Siheng Chen](https://siheng-chen.github.io/).  My general research interest lies in LLM agent applications. Currently, I focus on integrating LLM agents into embodied agent development. If you are interested in me and seek for cooperation, feel free to email me at [youngsoul0731@gmail.com](mailto:youngsoul0731@gmail.com/). 
 
 
 # 🔥 News
+
+- *2026.01*: &nbsp;🎉🎉 The paper entitled "InfoMosaic-Bench: Evaluating Multi-Source Information Seeking in Tool-Augmented Agents" has been accepted by ICLR 2026.
+
+- *2025.10*: &nbsp;🎉🎉 The paper entitled "GNNs as Predictors of Agentic Workflow Performances" has been accepted by LoG 2025: The Fourth Learning on Graphs Conference.
+
 - *2024.07*: &nbsp;🎉🎉 The paper entitled "ERASE: Error-Resilient Representation Learning on Graphs for Label Noise Tolerance" has been accepted by CIKM '24: 33rd International Conference on Information and Knowledge Management. I serve as a **co-first author**.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2024</div><img src='images/erase.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/infomosaic-bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[ERASE: Error-Resilient Representation Learning on Graphs for Label Noise Tolerance](https://dl.acm.org/doi/10.1145/3627673.3679552)
+[InfoMosaic-Bench: Evaluating Multi-Source Information Seeking in Tool-Augmented Agents](https://arxiv.org/abs/2510.02271)
 
-[Ling-Hao Chen](https://lhchen.top/), **Yuanshuo Zhang**, et al.
+Yaxin Du, **Yuanshuo Zhang**, Xiyuan Yang, Yifan Zhou, Cheng Wang, Gongyi Zou, Xianghe Pang, Wenhao Wang, Menglan Chen, Shuo Tang, Zhiyu Li, Feiyu Xiong, Siheng Chen
 
-[<i class="fa fa-solid fa-cube" aria-hidden="true"></i> **Project**](hhttps://eraseai.github.io/ERASE-page/) &nbsp; [<i class="fab fa-fw fa-github" aria-hidden="true"></i> **Code**](https://github.com/eraseai/erase) &nbsp; [<i class="fa fa-solid fa-video" aria-hidden="true"></i> **Video**](https://www.youtube.com/watch?v=w5HwGb8bElA)
-- We fist introduce error-resilient mechanism to graph representation learning.
+[<i class="fab fa-fw fa-github" aria-hidden="true"></i> **Code**](https://github.com/DorothyDUUU/Info-Mosaic) &nbsp; [<i class="fa fa-solid fa-file-pdf" aria-hidden="true"></i> **PDF**](https://arxiv.org/abs/2510.02271)
+- Role: co-author.
+- We introduce InfoMosaic-Bench to evaluate multi-source information seeking for tool-augmented agents.
+- Accepted by ICLR 2026.
 </div>
 </div>
 
-# 📝 Preprints
-<span class='anchor' id='-preprints'></span>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/flora.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">LoG 2025</div><img src='images/flora.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GNNs as Predictors of Agentic Workflow Performances](https://arxiv.org/abs/2503.11301)
@@ -48,7 +52,54 @@ I am first-year PhD student @ [SJTU](https://en.sjtu.edu.cn/), supervised by [Si
 Yuanshuo Zhang, Yuchen Hou, Bohan Tang, Shuo Chen, Muhan Zhang, Xiaowen Dong, Siheng Chen
 
 [<i class="fab fa-fw fa-github" aria-hidden="true"></i> **Code**](https://github.com/youngsoul0731/FLORA-Bench) &nbsp; [<i class="fa fa-solid fa-file-pdf" aria-hidden="true"></i> **PDF**](https://arxiv.org/pdf/2503.11301)
-- We propose FLORA to use GNNs as predictors of agentic workflow performance thus avoiding repeated LLM invocations for evaluation. 
+- Role: first author.
+- We propose FLORA to use GNNs as predictors of agentic workflow performance, reducing repeated LLM invocations during evaluation.
+- Accepted by LoG 2025.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2024</div><img src='images/erase.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ERASE: Error-Resilient Representation Learning on Graphs for Label Noise Tolerance](https://dl.acm.org/doi/10.1145/3627673.3679552)
+
+[Ling-Hao Chen](https://lhchen.top/)<sup>*</sup>, **Yuanshuo Zhang**<sup>*</sup>, et al.
+
+[<i class="fa fa-solid fa-cube" aria-hidden="true"></i> **Project**](hhttps://eraseai.github.io/ERASE-page/) &nbsp; [<i class="fab fa-fw fa-github" aria-hidden="true"></i> **Code**](https://github.com/eraseai/erase) &nbsp; [<i class="fa fa-solid fa-video" aria-hidden="true"></i> **Video**](https://www.youtube.com/watch?v=w5HwGb8bElA)
+- Role: co-first author.
+- We introduce an error-resilient mechanism for graph representation learning under label noise.
+- Accepted by CIKM 2024.
+</div>
+</div>
+
+<span class='anchor' id='-preprints'></span>
+
+# 📝 Preprints
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/embocoach-bench.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[EmboCoach-Bench: Benchmarking AI Agents on Developing Embodied Robots](https://arxiv.org/abs/2601.21570)
+
+Zixing Lei<sup>*</sup>, Genjia Liu<sup>*</sup>, **Yuanshuo Zhang**<sup>*</sup>, Qipeng Liu, Chuan Wen, Shanghang Zhang, Wenzhao Lian, Siheng Chen
+
+[<i class="fa fa-solid fa-file-pdf" aria-hidden="true"></i> **PDF**](https://arxiv.org/pdf/2601.21570)
+- Role: core contributor.
+- We benchmark AI agents on embodied robot development tasks, highlighting end-to-end tool use and iteration.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/agentif-oneday.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AgentIF-OneDay: A Task-level Instruction-Following Benchmark for General AI Agents in Daily Scenarios](https://arxiv.org/abs/2601.20613)
+
+Contributor (author list omitted)
+
+[<i class="fab fa-fw fa-github" aria-hidden="true"></i> **Code**](https://github.com/xbench-ai/AgentIF-OneDay) &nbsp; [<i class="fa fa-solid fa-file-pdf" aria-hidden="true"></i> **PDF**](https://arxiv.org/pdf/2601.20613)
+- Role: contributor.
+- We provide a task-level instruction-following benchmark for daily scenarios to evaluate general AI agents.
 </div>
 </div>
 
