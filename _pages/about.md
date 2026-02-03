@@ -95,8 +95,6 @@ Zixing Lei<sup>*</sup>, Genjia Liu<sup>*</sup>, **Yuanshuo Zhang**<sup>*</sup>, 
 
 [AgentIF-OneDay: A Task-level Instruction-Following Benchmark for General AI Agents in Daily Scenarios](https://arxiv.org/abs/2601.20613)
 
-Contributor (author list omitted)
-
 [<i class="fab fa-fw fa-github" aria-hidden="true"></i> **Code**](https://github.com/xbench-ai/AgentIF-OneDay) &nbsp; [<i class="fa fa-solid fa-file-pdf" aria-hidden="true"></i> **PDF**](https://arxiv.org/pdf/2601.20613)
 - Role: contributor.
 - We provide a task-level instruction-following benchmark for daily scenarios to evaluate general AI agents.
@@ -125,8 +123,8 @@ Yuanshuo Zhang, Yuchen Hou, Bohan Tang, Shuo Chen, Muhan Zhang, Xiaowen Dong, Si
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<!-- # 💻 Internships
-- *2024.08 - 2025.07*, [BIGAI](https://www.bigai.ai/), Beijing, China. -->
+# 💻 Internships
+- *2024.08 - 2025.07*, [BIGAI](https://www.bigai.ai/), Beijing, China.
 
 <!-- # 👍 Friends
 - [Ling-Hao Chen](https://lhchen.top/), Ph.D. student at [Tsinghua University](https://www.tsinghua.edu.cn/), focussing on Character Animation, Digital Generation, Embodied Intelligence, and Machine Learning (**mentored me in graph representation learning**). 

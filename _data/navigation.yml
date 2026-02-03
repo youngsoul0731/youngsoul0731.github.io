@@ -23,5 +23,5 @@ main:
 
   - title: "Internships"
     url: "/#-internships"
-  - title: "Friends"
-    url: "/#-friends"
+  # - title: "Friends"
+  #   url: "/#-friends"
