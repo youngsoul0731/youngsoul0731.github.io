@@ -17,7 +17,7 @@ about.html, about/      Compatibility redirects for old URLs
 .github/workflows/      Static GitHub Pages deployment
 ```
 
-The site uses plain HTML, CSS, and JavaScript, matching the reference template’s structure. It has no Jekyll, Ruby, package installation, or content-generation dependency. Paper content is written directly in `index.html`. EmboCoach appears in Digital Agents and Physical Agents; both entries share the same figure in `projects/digital_agents/embocoach-bench/`. Update both entries when editing this cross-listed paper.
+The site uses plain HTML, CSS, and JavaScript, matching the reference template’s structure. It has no Jekyll, Ruby, package installation, or content-generation dependency. Paper content is written directly in `index.html`.
 
 ## Preview and publish
 
