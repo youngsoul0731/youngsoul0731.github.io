@@ -9,6 +9,8 @@
 title                    : "Yuanshuo Zhang (章远硕)"
 description              : "PhD student at SJTU, focussing on LLM agent applications." 
 repository               : "youngsoul0731/youngsoul0731.github.io"
+url                      : "https://youngsoul0731.github.io"
+baseurl                  : ""
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -52,7 +54,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : “https://twitter.com/Yuanshuo0731”
+  twitter          : Yuanshuo0731
   vine             :
   weibo            :
   xing             :
@@ -67,6 +69,8 @@ include:
   - _pages
   - files
 exclude:
+  - scripts
+  - TEMPLATE_CREDITS.md
   - docs
   - google_scholar_crawler
   - "*.sublime-project"

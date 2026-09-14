@@ -1,3 +1,23 @@
+# Yuanshuo Zhang’s Homepage
+
+Personal academic homepage: https://youngsoul0731.github.io/
+
+The current design is adapted from [Jingbo Wang’s homepage](https://github.com/wangjingbo1219/wangjingbo1219.github.io). The visible footer links to the source; see [TEMPLATE_CREDITS.md](TEMPLATE_CREDITS.md).
+
+## Editing the current homepage
+
+- Personal information and page layout: `_includes/homepage-template.html`.
+- Research papers and grouping: `_data/research.json`.
+- Styles and navigation: `styles.css` and `main.js`.
+- Regenerate the committed page after editing content: `python3 scripts/build_homepage.py`.
+- Preview locally: `python3 -m http.server 8000`, then open `http://localhost:8000`.
+
+Research has three groups: **Digital Agents**, **Physical Agents**, and **Others**. EmboCoach-Bench is cross-listed in both agent groups using the same paper record. Publications and technical reports retain their status badges.
+
+`index.html` is a complete static page and does not need JavaScript to display its content. The existing Jekyll Pages workflow regenerates it before building; `_pages/about.md` preserves the old `/about/` and `/about.html` entry points as redirects. Changes must be committed and pushed to `main` to update the public website.
+
+## Original theme documentation
+
 
 <h1 align="center">
 AcadHomepage
