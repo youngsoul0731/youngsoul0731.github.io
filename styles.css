@@ -2,26 +2,26 @@
    https://github.com/wangjingbo1219/wangjingbo1219.github.io
    See TEMPLATE_CREDITS.md for attribution.
    ============================================================
-   xAI-style minimal redesign — pure black, monochrome, no glass
+   Minimal monochrome design — white background, black text
    ============================================================ */
 
 :root {
   --font-sans:'Inter',-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;
   --font-mono:'JetBrains Mono','SF Mono',monospace;
-  --bg:#000000;
-  --surface:#0a0a0a;
-  --surface-2:#101010;
-  --text:#fafafa;
-  --muted:#a3a3a3;
-  --faint:#6b6b6b;
-  --border:#262626;
-  --border-strong:#3d3d3d;
+  --bg:#ffffff;
+  --surface:#fafafa;
+  --surface-2:#f0f0f0;
+  --text:#000000;
+  --muted:#333333;
+  --faint:#555555;
+  --border:#e0e0e0;
+  --border-strong:#b8b8b8;
   --max:1080px;
 }
 
 *, *::before, *::after { box-sizing:border-box; }
 html { scroll-behavior:smooth; scroll-padding-top:4.5rem; }
-::selection { background:#fafafa; color:#000; }
+::selection { background:var(--text); color:var(--bg); }
 
 body {
   margin:0;
@@ -43,8 +43,8 @@ body {
   z-index:100;
   padding:.55rem 1rem;
   border-radius:8px;
-  background:#fafafa;
-  color:#000;
+  background:var(--text);
+  color:var(--bg);
   font-weight:600;
   font-size:.8rem;
   text-decoration:none;
@@ -61,7 +61,7 @@ body {
   z-index:70;
   transform-origin:0 50%;
   transform:scaleX(0);
-  background:#fafafa;
+  background:var(--text);
   pointer-events:none;
 }
 
@@ -75,7 +75,7 @@ nav {
   align-items:center;
   gap:.25rem;
   padding:.8rem clamp(1rem, 4vw, 2rem);
-  background:rgba(0,0,0,.88);
+  background:rgba(255,255,255,.96);
   border-bottom:1px solid var(--border);
 }
 
@@ -116,7 +116,7 @@ nav a:not(.nav-brand):hover { color:var(--text); background:var(--surface-2); }
 nav a.active { color:var(--text); background:var(--surface-2); }
 
 a:focus-visible {
-  outline:1.5px solid #fafafa;
+  outline:1.5px solid var(--text);
   outline-offset:2px;
   border-radius:6px;
 }
@@ -239,11 +239,11 @@ h1 {
 
 .hero-links a:hover {
   background:var(--text);
-  color:#000;
+  color:var(--bg);
   border-color:var(--text);
 }
 
-.hero-links a:hover .social-mark { color:#000; border-color:#000; }
+.hero-links a:hover .social-mark { color:var(--bg); border-color:var(--bg); }
 .hero-links img { width:15px; height:15px; object-fit:contain; }
 
 .social-mark {
@@ -543,7 +543,7 @@ section h2 {
   object-fit:contain;
   object-position:center;
   padding:.4rem;
-  background:#0d0d0d;
+  background:var(--bg);
   border:1px solid var(--border);
 }
 
@@ -582,7 +582,7 @@ section h2 {
   vertical-align:middle;
 }
 
-.badge-highlight { background:var(--text); color:#000; border-color:var(--text); }
+.badge-highlight { background:var(--text); color:var(--bg); border-color:var(--text); }
 .badge-review { color:var(--faint); border-color:var(--border); }
 
 .links { margin-top:.3rem; display:flex; flex-wrap:wrap; gap:.4rem; }
@@ -599,7 +599,7 @@ section h2 {
   transition:background .2s ease, color .2s ease, border-color .2s ease;
 }
 
-.links a:hover { background:var(--text); color:#000; border-color:var(--text); }
+.links a:hover { background:var(--text); color:var(--bg); border-color:var(--text); }
 
 /* ---------------- Experience timeline ---------------- */
 #experience .topic-items {
@@ -673,7 +673,7 @@ section h2 {
 
 .exp-badge.current {
   background:var(--text);
-  color:#000;
+  color:var(--bg);
   border-color:var(--text);
 }
 
@@ -788,7 +788,7 @@ footer .back-to-top:hover { color:var(--text); }
 }
 
 /* ---------------- Yuanshuo Zhang's homepage ---------------- */
-:root { --faint:#929292; }
+:root { color-scheme:light; }
 html { scroll-behavior:auto; }
 body { overflow-wrap:break-word; }
 a { color:inherit; }
