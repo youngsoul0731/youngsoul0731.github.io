@@ -19,6 +19,16 @@ if (menu && navLinks) {
   });
 }
 
+// Hero background starts below the fixed nav; keep --nav-h in sync with the real nav height (collapsed state only).
+const nav = document.querySelector('nav');
+function updateNavHeight() {
+  if (!nav || (menu && menu.getAttribute('aria-expanded') === 'true')) return;
+  document.documentElement.style.setProperty('--nav-h', `${nav.offsetHeight}px`);
+}
+window.addEventListener('resize', updateNavHeight);
+window.addEventListener('load', updateNavHeight);
+updateNavHeight();
+
 const links = [...document.querySelectorAll('#nav-links a')];
 const sections = links.map(link => document.querySelector(link.getAttribute('href')));
 const progress = document.querySelector('.scroll-progress');
