@@ -80,7 +80,7 @@ Yuanshuo Zhang, Yuchen Hou, Bohan Tang, Shuo Chen, Muhan Zhang, Xiaowen Dong, Si
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/embocoach-bench.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EmboCoach-Bench: Benchmarking AI Agents on Developing Embodied Robots](https://arxiv.org/abs/2601.21570)
+[From Digital to Physical: Digital Agents as Autonomous Coaches for Physical Intelligence](https://arxiv.org/abs/2601.21570)
 
 Zixing Lei<sup>*</sup>, Genjia Liu<sup>*</sup>, **Yuanshuo Zhang**<sup>*</sup>, Qipeng Liu, Chuan Wen, Shanghang Zhang, Wenzhao Lian, Siheng Chen
 
