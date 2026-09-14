@@ -1,92 +1,26 @@
 # Yuanshuo Zhang’s Homepage
 
-Personal academic homepage: https://youngsoul0731.github.io/
+Personal academic website: https://youngsoul0731.github.io/
 
-The current design is adapted from [Jingbo Wang’s homepage](https://github.com/wangjingbo1219/wangjingbo1219.github.io). The visible footer links to the source; see [TEMPLATE_CREDITS.md](TEMPLATE_CREDITS.md).
+Adapted from [Jingbo Wang’s homepage](https://github.com/wangjingbo1219/wangjingbo1219.github.io). Attribution is retained in the page footer and [TEMPLATE_CREDITS.md](TEMPLATE_CREDITS.md).
 
-## Editing the current homepage
+## Structure
 
-- Personal information and page layout: `_includes/homepage-template.html`.
-- Research papers and grouping: `_data/research.json`.
-- Styles and navigation: `styles.css` and `main.js`.
-- Regenerate the committed page after editing content: `python3 scripts/build_homepage.py`.
-- Preview locally: `python3 -m http.server 8000`, then open `http://localhost:8000`.
+```text
+index.html              Page content — edit this file directly
+styles.css              Styling and responsive layouts
+main.js                 Navigation interactions
+images/avatar.jpg       Personal portrait
+icons/                  Site icon
+projects/               Research figures, organized by topic and project
+about.html, about/      Compatibility redirects for old URLs
+.github/workflows/      Static GitHub Pages deployment
+```
 
-Research has three groups: **Digital Agents**, **Physical Agents**, and **Others**. EmboCoach-Bench is cross-listed in both agent groups using the same paper record. Publications and technical reports retain their status badges.
+The site uses plain HTML, CSS, and JavaScript, matching the reference template’s structure. It has no Jekyll, Ruby, package installation, or content-generation dependency. Paper content is written directly in `index.html`. EmboCoach appears in Digital Agents and Physical Agents; both entries share the same figure in `projects/digital_agents/embocoach-bench/`. Update both entries when editing this cross-listed paper.
 
-`index.html` is a complete static page and does not need JavaScript to display its content. The existing Jekyll Pages workflow regenerates it before building; `_pages/about.md` preserves the old `/about/` and `/about.html` entry points as redirects. Changes must be committed and pushed to `main` to update the public website.
+## Preview and publish
 
-## Original theme documentation
+Run `python3 -m http.server 8001 --bind 127.0.0.1` from this folder and open http://127.0.0.1:8001/ (or open `index.html` directly).
 
-
-<h1 align="center">
-AcadHomepage
-</h1>
-
-<div align="center">
-
-[![](https://img.shields.io/github/stars/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/forks/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/issues/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io)
-[![](https://img.shields.io/github/license/RayeRen/acad-homepage.github.io)](https://github.com/RayeRen/acad-homepage.github.io/blob/main/LICENSE)  | [中文文档](./docs/README-zh.md) 
-</div>
-
-<p align="center">A Modern and Responsive Academic Personal Homepage</p>
-
-<p align="center">
-    <br>
-    <img src="docs/screenshot.png" width="100%"/>
-    <br>
-</p>
-
-Some examples:
-- [Demo Page](https://rayeren.github.io/acad-homepage.github.io/)
-- [Personal Homepage of the author](https://rayeren.github.io/)
-
-## Key Features
-- **Automatically update google scholar citations**: using the google scholar crawler and github action, this REPO can update the author citations and publication citations automatically.
-- **Support Google analytics**: you can trace the traffics of your homepage by easy configuration.
-- **Responsive**: this homepage automatically adjust for different screen sizes and viewports.
-- **Beautiful and Simple Design**: this homepage is beautiful and simple, which is very suitable for academic personal homepage.
-- **SEO**: search Engine Optimization (SEO) helps search engines find the information you publish on your homepage easily, then rank it against similar websites.
-
-## Quick Start
-
-1. Fork this REPO and rename to `USERNAME.github.io`, where `USERNAME` is your github USERNAME.
-1. Configure the google scholar citation crawler:
-    1. Find your google scholar ID in the url of your google scholar page (e.g., https://scholar.google.com/citations?user=SCHOLAR_ID), where `SCHOLAR_ID` is your google scholar ID.
-    1. Set GOOGLE_SCHOLAR_ID variable to your google scholar ID in `Settings -> Secrets -> Actions -> New repository secret` of the REPO website with `name=GOOGLE_SCHOLAR_ID` and `value=SCHOLAR_ID`.
-    1. Click the `Action` of the REPO website and enable the workflows by clicking *"I understand my workflows, go ahead and enable them"*. This github action will generate google scholar citation stats data `gs_data.json` in `google-scholar-stats` branch of your REPO. When you update your main branch, this action will be triggered. This action will also be trigger 08:00 UTC everyday.
-1. Generate favicon using [favicon-generator](https://redketchup.io/favicon-generator) and download all generated files to `REPO/images`.
-1. Modify the configuration of your homepage `_config.yml`:
-    1. `title`: the title of your homepage
-    1. `description`: the description of your homepage
-    1. `repository`: USER_NAME/REPO_NAME  
-    1. `google_analytics_id` (optional): google analytics ID
-    1. SEO Related keys (optional): get these keys from search engine consoles (e.g. Google, Bing and Baidu) and paste here.
-    1. `author`: the author information of this homepage, including some other websites, emails, city and univeristy.
-    1. More configuration details are described in the comments.
-1. Add your homepage content in `_pages/about.md`.
-    1. You can use html+markdown syntax just same as jekyll.
-    1. You can use a `<span>` tag with class `show_paper_citations` and attribute `data` to display the citations of your paper. Set the data to the google scholar paper ID. For
-        ```html
-        <span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span>
-        ``` 
-        > Q: How to get the google scholar paper ID?   
-        > A: Enter your google scholar homepage and click the paper name. Then you can see the paper ID from `citation_for_view=XXXX`, where `XXXX` is the required paper ID.
-1. Your page will be published at `https://USERNAME.github.io`.
-
-## Debug Locally
-
-1. Clone your REPO to local using `git clone`.
-1. Install Jekyll building environment, including `Ruby`, `RubyGems`, `GCC` and `Make` following [the installation guide](https://jekyllrb.com/docs/installation/#requirements).
-1. Run `bash run_server.sh` to start Jekyll livereload server.
-1. Open http://127.0.0.1:4000 in your browser.
-1. If you change the source code of the website, the livereload server will automatically refresh.
-1. When you finish the modification of your homepage, `commit` your changings and `push` to your remote REPO using `git` command.
-
-# Acknowledges
-
-- AcadHomepage incorporates Font Awesome, which is distributed under the terms of the SIL OFL 1.1 and MIT License.
-- AcadHomepage is influenced by the github repo [mmistakes/minimal-mistakes](https://github.com/mmistakes/minimal-mistakes), which is distributed under the MIT License.
-- AcadHomepage is influenced by the github repo [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io), which is distributed under the MIT License.
+Push changes to `main` to publish through the static Pages workflow. The workflow uploads only the website files. `.nojekyll` also supports serving the static site without Jekyll processing.
