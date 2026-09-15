@@ -803,7 +803,7 @@ button:focus-visible { outline:2px solid var(--text); outline-offset:4px; }
 :root { --nav-h:3.8rem; }
 header { position:relative; min-height:760px; min-height:min(92svh, 880px); padding-bottom:7rem; background:var(--bg); }
 /* Image starts below the fixed nav and is anchored to its top edge so the bear is never cropped; overflow is trimmed from the bottom. */
-header::before { content:""; position:absolute; inset:var(--nav-h) 0 0; background:linear-gradient(180deg, rgba(30,16,48,.42), rgba(30,16,48,.18) 42%, rgba(56,22,40,.5)), #8f5a9c url("images/hero-bg.jpg") 50% 0 / cover no-repeat; pointer-events:none; }
+header::before { content:""; position:absolute; inset:var(--nav-h) 0 0; background:linear-gradient(180deg, rgba(24,20,17,.5), rgba(24,20,17,.28) 45%, rgba(18,15,13,.55)), #8a7f72 url("images/hero-bg.jpg") 50% 0 / cover no-repeat; pointer-events:none; }
 .hero, .hero-scroll { position:relative; z-index:1; }
 header h1, .hero-links a { color:#fff; }
 header .calligraphy, header .portrait-caption { color:rgba(255,255,255,.85); }
